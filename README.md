@@ -1,5 +1,7 @@
 # Numerical Methods Notes
 
+[![DOI](https://zenodo.org/badge/731910060.svg)](https://doi.org/10.5281/zenodo.17164824)
+
 In this repository, you will find some notes on numerical methods for 
 solving common mathematical problems. Contributions are welcome!
 
@@ -14,3 +16,16 @@ solving common mathematical problems. Contributions are welcome!
 - *Topic 8:* Numerical Solutions of Partial Differential Equations
 - *Topic 9:* Numerical Solution of Systems of Linear Equations and Matrix Factorization
 
+**Cite this repository**
+
+```bibtex
+@software{bernat_frangi_2025_17164825,
+  author       = {Frangi, Bernat},
+  title        = {Numerical Methods Notes},
+  month        = 9,
+  year         = 2025,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.17164824.},
+  url          = {https://doi.org/10.5281/zenodo.17164825},
+}
+```
